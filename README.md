@@ -39,7 +39,7 @@ This is the implementation of Multi-branch Network with Multi-feature Enhancemen
 1. Clone this repository:
 
 ```bash
-git clone [https://github.com/erprogs/M2EH]
+git clone https://github.com/daisy-12138/M2EH
 ```
 
 2. Install the required dependencies:
