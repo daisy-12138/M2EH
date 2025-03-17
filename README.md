@@ -5,11 +5,6 @@
 This is the implementation of Multi-branch Network with Multi-feature Enhancement for Improving the Generalization of Facial Forgery Detection
 
 
-<br/><br/>
-![The Proposed Multi-branch Network with Multi-feature Enhancement](M2EH.png)
-<p align="center">The Proposed Multi-branch Network with Multi-feature Enhancement</p>
-
-
 ## Table of Contents
 
 - [Requirements](#requirements)
