@@ -1,8 +1,8 @@
-# Multi-branch Network with Multi-feature Enhancement for Improving the Generalization of Facial Forgery Detection
+# Enhancing the Generalization of Facial Forgery Detection via Multi-branch Multi-feature Network
 
 ## Introduction
 
-This is the implementation of Multi-branch Network with Multi-feature Enhancement for Improving the Generalization of Facial Forgery Detection
+This is the implementation of Enhancing the Generalization of Facial Forgery Detection via Multi-branch Multi-feature Network
 
 
 ## Table of Contents
@@ -34,7 +34,7 @@ This is the implementation of Multi-branch Network with Multi-feature Enhancemen
 1. Clone this repository:
 
 ```bash
-git clone https://github.com/daisy-12138/M2EH
+git clone https://github.com/daisy-12138/M2NT
 ```
 
 2. Install the required dependencies:
@@ -45,7 +45,7 @@ pip install -r requirements.txt
 
 ## Model Training
 
-To train the M2EH model, follow these steps:
+To train the M2NT model, follow these steps:
 
 1. Prepare the training data according to the following structure and place it in the `sample_train_data` folder:
 <pre>
