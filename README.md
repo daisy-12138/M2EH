@@ -11,6 +11,7 @@ This is the implementation of Enhancing the Generalization of Facial Forgery Det
 - [Usage](#usage)
   - [Model Training](#model-training)
   - [Model Testing](#model-testing)
+- [Dataset](#dataset)
 
 
 ## Requirements
@@ -77,3 +78,7 @@ To run the code, use the following command:
 ```bash
 python test.py
 ```
+
+
+## Dataset
+The public datasets can be available at https://github.com/SCLBD/DeepfakeBench.
