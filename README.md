@@ -36,7 +36,7 @@ WildDeepfake dataset can be available at https://github.com/OpenTAI/wild-deepfak
 
 Diff dataset can be available at https://github.com/OpenTAI/wild-deepfake.
 
-HybirdGenFace dataset can be available at https://pan.baidu.com/s/1zWvf5GpoXJtgRY4Tkup8gQ?pwd=38k5 (38k5).
+HybirdGenFace dataset can be available at https://pan.baidu.com/s/1BhhOxpHbj1vV6OZddM22GQ?pwd=q57v (q57v).
 
 ## Usage
 
