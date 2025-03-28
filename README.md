@@ -8,10 +8,10 @@ This is the implementation of Enhancing the Generalization of Facial Forgery Det
 ## Table of Contents
 
 - [Requirements](#requirements)
+- [Dataset](#dataset)
 - [Usage](#usage)
   - [Model Training](#model-training)
   - [Model Testing](#model-testing)
-- [Dataset](#dataset)
 
 
 ## Requirements
@@ -29,6 +29,11 @@ This is the implementation of Enhancing the Generalization of Facial Forgery Det
     * timm
 </pre>
 
+## Dataset
+FF++, CelebDF-v1, CelebDF-v2, DFDC, and UADFV datasets can be available at https://github.com/SCLBD/DeepfakeBench.
+WildDeepfake dataset can be available at https://github.com/OpenTAI/wild-deepfake.
+Diff dataset can be available at https://github.com/OpenTAI/wild-deepfake.
+HybirdGenFace dataset can be available at https://drive.google.com/drive/my-drive?hl=zh-cn.
 
 ## Usage
 
@@ -78,7 +83,3 @@ To run the code, use the following command:
 ```bash
 python test.py
 ```
-
-
-## Dataset
-The public datasets can be available at https://github.com/SCLBD/DeepfakeBench.
