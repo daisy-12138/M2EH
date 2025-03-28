@@ -31,9 +31,12 @@ This is the implementation of Enhancing the Generalization of Facial Forgery Det
 
 ## Dataset
 FF++, CelebDF-v1, CelebDF-v2, DFDC, and UADFV datasets can be available at https://github.com/SCLBD/DeepfakeBench.
+
 WildDeepfake dataset can be available at https://github.com/OpenTAI/wild-deepfake.
+
 Diff dataset can be available at https://github.com/OpenTAI/wild-deepfake.
-HybirdGenFace dataset can be available at https://drive.google.com/drive/my-drive?hl=zh-cn.
+
+HybirdGenFace dataset can be available at https://pan.baidu.com/s/1zWvf5GpoXJtgRY4Tkup8gQ?pwd=38k5(38k5).
 
 ## Usage
 
