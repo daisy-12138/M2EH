@@ -1,8 +1,8 @@
-# Enhancing the Generalization of Facial Forgery Detection via Multi-branch Multi-feature Network
+# Multi-branch Network with Multi-feature Enhancement for Improving the Generalization of Facial Forgery Detection
 
 ## Introduction
 
-This is the implementation of Enhancing the Generalization of Facial Forgery Detection via Multi-branch Multi-feature Network
+This is the implementation of Multi-branch Network with Multi-feature Enhancement for Improving the Generalization of Facial Forgery Detection
 
 
 ## Table of Contents
@@ -43,7 +43,7 @@ HybirdGenFace dataset can be available at https://pan.baidu.com/s/1BhhOxpHbj1vV6
 1. Clone this repository:
 
 ```bash
-git clone https://github.com/daisy-12138/M2NT
+git clone https://github.com/daisy-12138/M2EH
 ```
 
 2. Install the required dependencies:
